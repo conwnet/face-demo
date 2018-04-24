@@ -1,1 +1,5 @@
 # face-demo
+
+* -> *
+      \-> * -> other
+
